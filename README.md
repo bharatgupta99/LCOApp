@@ -7,5 +7,4 @@ Font size can also be changed
 
 ![alt text](https://github.com/bharatgupta99/LCOApp/blob/master/app/src/main/res/drawable-v24/Pic4.PNG)
 
-![alt text]
-(https://github.com/bharatgupta99/LCOApp/blob/master/app/src/main/res/drawable-v24/Pic3.PNG)
+![alt text](https://github.com/bharatgupta99/LCOApp/blob/master/app/src/main/res/drawable-v24/Pic3.PNG)
